@@ -6,10 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Filesonic User Manual',
+  title: 'Filesonic Backoffice',
   tagline: 'Dinosaurs are cool',
   url: 'https://venture-miner.github.io',
-  baseUrl: '/filesonic-user-manual/',
+  baseUrl: '/backoffice-filesonic/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/filesonic.ico',
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://venture-miner.github.io/filesonic-user-manual',
+            'https://venture-miner.github.io/backoffice-filesonic',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,10 +60,10 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Filesonic Manual',
+            label: 'Backoffice Manual',
           },
           {
-            href: 'https://github.com/Venture-Miner/filesonic-user-manual',
+            href: 'https://github.com/Venture-Miner/backoffice-filesonic',
             label: 'GitHub',
             position: 'right',
           },
