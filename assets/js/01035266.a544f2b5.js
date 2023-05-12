@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbackoffice_filesonic=self.webpackChunkbackoffice_filesonic||[]).push([[968],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
